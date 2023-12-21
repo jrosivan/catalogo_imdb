@@ -40,7 +40,7 @@ do Usuário com as diversas opções do Menu
 * **TestesCatalogo**: Classe Main do projeto
 * **CatalogoService**: Métodos diversos para manipulação dos dados
 
-</br>
+<br>
 
 ## Tela do Menu Principal:
 <img src="menu_principal.png" alt="Texto Alternativo">
